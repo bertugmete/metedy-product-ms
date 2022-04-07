@@ -1,0 +1,10 @@
+{
+  "name": "Product MS",
+  "version": "1.0.0",
+  "description": "Product microservice",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
